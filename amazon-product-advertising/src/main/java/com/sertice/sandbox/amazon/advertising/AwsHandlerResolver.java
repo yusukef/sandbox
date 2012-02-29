@@ -34,6 +34,7 @@ public class AwsHandlerResolver implements HandlerResolver {
 		this.awsSecretKey = awsSecretKey;
 	}
 
+	@SuppressWarnings("rawtypes")
 	public List<Handler> getHandlerChain(PortInfo portInfo) {
 		List<Handler> handlerChain = new ArrayList<Handler>();
 
