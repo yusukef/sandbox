@@ -15,7 +15,13 @@
 	<ciManagement></ciManagement>
 	<inceptionYear>2012</inceptionYear>
 	<mailingLists></mailingLists>
-	<developers></developers>
+	<developers>
+		<developer>
+			<id>yusukef</id>
+			<name>Yusuke FUJISAWA</name>
+			<email>fujisawa@sertice.com</email>
+		</developer>
+	</developers>
 	<contributors></contributors>
 	<licenses></licenses>
 	<scm></scm>
